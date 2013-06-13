@@ -1,5 +1,6 @@
-== Welcome to Rails
+# MySql Tutorial: version 0.0.1
 
+This is the first application of Dieudon
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
@@ -72,13 +73,7 @@ The result will be a message in your log file along the lines of:
 More information on how to use the logger is at http://www.ruby-doc.org/core/
 
 Also, Ruby documentation can be found at http://www.ruby-lang.org/. There are
-several books available online as well:
 
-* Programming Ruby: http://www.ruby-doc.org/docs/ProgrammingRuby/ (Pickaxe)
-* Learn to Program: http://pine.fm/LearnToProgram/ (a beginners guide)
-
-These two books will bring you up to speed on the Ruby language and also on
-programming in general.
 
 
 == Debugger
@@ -119,8 +114,7 @@ Finally, when you're ready to resume execution, you can enter "cont".
 
 == Console
 
-The console is a Ruby shell, which allows you to interact with your
-application's domain model. Here you'll have all parts of the application
+The console is a Ruby shell, which allows you to interact with yourapplication's domain model. Here you'll have all parts of the application
 configured, just like it is when the application is running. You can inspect
 domain models, change values, and save to the database. Starting the script
 without arguments will launch it in the development environment.
